@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ea025986/Desktop/Office/tools/system-instrument-picasso-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ea025986/.m2/repository/com/cerner/system/instrument/system-instrument/2.3/system-instrument-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ea025986/.m2/repository/com/cerner/system/instrument/system-instrument-logging-basic/2.1/system-instrument-logging-basic-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ea025986/.m2/repository/com/cerner/healthexpert/healthexpert-uid/2.5/healthexpert-uid-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ea025986/.m2/repository/com/cerner/healthexpert/healthexpert/3.0.2/healthexpert-3.0.2.jar"/>
+	<classpathentry kind="src" path="/healthexpert-sirius-ml"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" sourcepath="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/ea025986/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
